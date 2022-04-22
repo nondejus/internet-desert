@@ -1,2 +1,0 @@
-# internet-desert
-planet earth
